@@ -39,6 +39,8 @@ st.subheader('', divider='rainbow')
 st.markdown("""
 ## How to Use UplAsk
 
+⚠️ Important: In this app you can upload document and ask question on it. The documents you upload will be analyzed using OpenAI's services. This means the content of your documents will be shared with OpenAI for processing. Please be cautious when uploading sensitive or confidential information.
+
 1. **Step 0: Enter Your OpenAI API Key:** Before using the app, please enter your OpenAI API key. The key is required to power the natural language processing features of this app.
 
 2. **Step 1: Upload a Document:** Click the 'Upload a PDF' button to upload a document that you want summarized or from which you wish to retrieve information.
