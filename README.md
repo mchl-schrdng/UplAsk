@@ -12,6 +12,8 @@ UplAsk is a Streamlit-based web application designed to automatically summarize 
 
 ## How It Works
 
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://vimeo.com/863237961/cf257b796a)" frameborder="0" allowfullscreen></iframe>
+
 1. **API Key:** Enter your OpenAI API key to enable natural language processing features.
 2. **Upload PDF:** Use the file uploader to submit a PDF document you wish to summarize or query.
 3. **Wait for Processing:** The application will read and summarize the document, which may take a few seconds to a minute depending on the document length.
